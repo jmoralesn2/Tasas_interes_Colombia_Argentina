@@ -1,6 +1,5 @@
 # data_science_project_1
 
-#%% md
 ## Proyecto 1!
 
 ### Objetivos:
