@@ -42,11 +42,11 @@
     * Dev_real: Devaluación real del peso colombiano
   
   * ***Tasa_de_interes:***
-  * Periodo: Año de la toma de los datos
-  * Tasa_inter: Tasa de interés de intervención del Banco de la Republica
-  * Consumo: Tasa de interés de créditos de consumo
-  * Comercial: Tasa de interés de créditos comerciales
-  * Hipotecario: Tasa de interés de créditos hipotecarios
-  * TES1: Tasa de interés para Titulos de deuda pública a 1 año
-  * TES5: Tasa de interés para Titulos de deuda pública a 5 años
-  * TES7: Tasa de interés para Titulos de deuda pública a 7 años
+    * Periodo: Año de la toma de los datos
+    * Tasa_inter: Tasa de interés de intervención del Banco de la Republica
+    * Consumo: Tasa de interés de créditos de consumo
+    * Comercial: Tasa de interés de créditos comerciales
+    * Hipotecario: Tasa de interés de créditos hipotecarios
+    * TES1: Tasa de interés para Titulos de deuda pública a 1 año
+    * TES5: Tasa de interés para Titulos de deuda pública a 5 años
+    * TES7: Tasa de interés para Titulos de deuda pública a 7 años
