@@ -2,15 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1e3e355b-42a9-4f68-a3cf-840c8ce1456a" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.ipynb_checkpoints/Project1-checkpoint.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.ipynb_checkpoints/Untitled-checkpoint.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Untitled.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tasa interes- serie mensual- ARG.xls" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/1.2.3.IPC_Por grupo de gasto Colombia.xlsx" beforeDir="false" afterPath="$PROJECT_DIR$/1.2.3.IPC_Por grupo de gasto Colombia.xlsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/1.2.3.IPC_Por grupo de gasto.xlsx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Inflación Argentina.xlsx" beforeDir="false" afterPath="$PROJECT_DIR$/Inflación Argentina.xlsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Project1.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Project1.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -96,7 +88,8 @@
       <workItem from="1645548121523" duration="10322000" />
       <workItem from="1645565874061" duration="1145000" />
       <workItem from="1645635877025" duration="1489000" />
-      <workItem from="1645731783066" duration="8256000" />
+      <workItem from="1645731783066" duration="8390000" />
+      <workItem from="1645744652252" duration="1321000" />
     </task>
     <servers />
   </component>
