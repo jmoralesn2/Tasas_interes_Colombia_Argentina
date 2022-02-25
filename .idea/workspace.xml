@@ -1,8 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AnalysisUIOptions">
+    <option name="SCOPE_TYPE" value="8" />
+    <option name="CUSTOM_SCOPE_NAME" value="Recently Changed Files" />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="1e3e355b-42a9-4f68-a3cf-840c8ce1456a" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1.2.3.IPC_Por grupo de gasto Colombia.xlsx" beforeDir="false" afterPath="$PROJECT_DIR$/1.2.3.IPC_Por grupo de gasto Colombia.xlsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Inflación Argentina.xlsx" beforeDir="false" afterPath="$PROJECT_DIR$/Inflación Argentina.xlsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project1.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Project1.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tasa de intervencion-Argentina.xls" beforeDir="false" afterPath="$PROJECT_DIR$/tasa de intervencion-Argentina.xls" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tasa de intervencion-Colombia.xlsx" beforeDir="false" afterPath="$PROJECT_DIR$/tasa de intervencion-Colombia.xlsx" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -89,7 +98,10 @@
       <workItem from="1645565874061" duration="1145000" />
       <workItem from="1645635877025" duration="1489000" />
       <workItem from="1645731783066" duration="8390000" />
-      <workItem from="1645744652252" duration="1321000" />
+      <workItem from="1645744652252" duration="4985000" />
+      <workItem from="1645756128413" duration="286000" />
+      <workItem from="1645804902314" duration="3436000" />
+      <workItem from="1645809433756" duration="4986000" />
     </task>
     <servers />
   </component>
