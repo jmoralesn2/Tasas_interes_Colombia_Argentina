@@ -1,4 +1,4 @@
-# data_science_project_1
+# Inflacion, tasas de interes en Colombia y Argentina
 Primer proyecto del Bootcamp de Tzuzul Code, en el cual se busca evaluar los conocimientos básicos en obtención, limpieza y unión de bases de datos, obtención de estimadores de locación y gráficación en Python.
 
 ## Objetivos:
